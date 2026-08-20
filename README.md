@@ -13,7 +13,7 @@ GitDemo is a lightweight example project designed to help users practice common 
 * Working with remote repositories
 * Opening and reviewing pull requests
 
-## Getting Started...
+## Getting Started:
 
 ### Clone the Repository
 
