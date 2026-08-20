@@ -5,7 +5,6 @@ A simple repository for demonstrating Git workflows, commands, and best practice
 ## Overview
 
 GitDemo is a lightweight example project designed to help users practice common Git operations such as:
-
 * Creating and cloning repositories
 * Creating and switching branches
 * Making and reviewing commits
